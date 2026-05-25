@@ -1,5 +1,6 @@
 {
-  "repository": "https://github.com/vercel/react-tweet.git",
+  "name": "react-tweet",
+  "repository": "https://github.com/dstroot/react-tweet.git",
   "license": "MIT",
   "private": true,
   "author": "Luis Alvarez (https://twitter.com/luis_fades)",
