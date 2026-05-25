@@ -2,7 +2,6 @@
   "repository": "https://github.com/vercel/react-tweet.git",
   "license": "MIT",
   "private": true,
-  "version": "1",
   "author": "Luis Alvarez (https://twitter.com/luis_fades)",
   "scripts": {
     "build": "turbo run build",
